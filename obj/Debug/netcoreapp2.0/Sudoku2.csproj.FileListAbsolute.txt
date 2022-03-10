@@ -1,0 +1,10 @@
+C:\Users\amela\WORKSPACE\Entretien\Sudoku2\obj\Debug\netcoreapp2.0\Sudoku2.csproj.CoreCompileInputs.cache
+C:\Users\amela\WORKSPACE\Entretien\Sudoku2\obj\Debug\netcoreapp2.0\Sudoku2.AssemblyInfoInputs.cache
+C:\Users\amela\WORKSPACE\Entretien\Sudoku2\obj\Debug\netcoreapp2.0\Sudoku2.AssemblyInfo.cs
+C:\Users\amela\WORKSPACE\Entretien\Sudoku2\bin\Debug\netcoreapp2.0\Sudoku2.deps.json
+C:\Users\amela\WORKSPACE\Entretien\Sudoku2\bin\Debug\netcoreapp2.0\Sudoku2.runtimeconfig.json
+C:\Users\amela\WORKSPACE\Entretien\Sudoku2\bin\Debug\netcoreapp2.0\Sudoku2.runtimeconfig.dev.json
+C:\Users\amela\WORKSPACE\Entretien\Sudoku2\bin\Debug\netcoreapp2.0\Sudoku2.dll
+C:\Users\amela\WORKSPACE\Entretien\Sudoku2\bin\Debug\netcoreapp2.0\Sudoku2.pdb
+C:\Users\amela\WORKSPACE\Entretien\Sudoku2\obj\Debug\netcoreapp2.0\Sudoku2.dll
+C:\Users\amela\WORKSPACE\Entretien\Sudoku2\obj\Debug\netcoreapp2.0\Sudoku2.pdb
